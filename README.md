@@ -10,7 +10,7 @@ Key features include:
 - Add new rooms with details (room number, floor number, view status)
 - View a list of all rooms
 - Responsive web interface
-- Integration with AWS DynamoDB for data persistence
+- Integration with AWS DynamoDB for data persistences
 - Deployment automation using AWS App Runner
 
 ## Workshop Catalog
